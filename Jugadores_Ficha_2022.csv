@@ -1,0 +1,131 @@
+id,Nombre,Apellido,Posicion,Dorsal,Equipo,Fecha Nac,Edad,F_Debut,Peso(Kg),Estatura(mtrs),Mano_Bateo,Mano_Lanzar,Link_Ficha_Player
+592450,Aaron,Judge,CF,99,Los Yankees de Nueva York, 4/26/1992,31, 8/13/2016,127.91,2.01,R,R,https://www.mlb.com/es/player/592450
+670541,Yordan,Alvarez,LF,44,Los Astros de Houston, 6/27/1997,25, 6/09/2019,102.06,1.96,L,R,https://www.mlb.com/es/player/670541
+502671,Paul,Goldschmidt,1B,46,Los Cardenales de San Luis, 9/10/1987,35, 8/01/2011,99.79,1.91,R,R,https://www.mlb.com/es/player/502671
+514888,Jose,Altuve,2B,27,Los Astros de Houston, 5/06/1990,33, 7/20/2011,75.3,1.68,R,R,https://www.mlb.com/es/player/514888
+518692,Freddie,Freeman,1B,5,Los Dodgers de Los Angeles, 9/12/1989,33, 9/01/2010,99.79,1.96,L,R,https://www.mlb.com/es/player/518692
+592518,Manny,Machado,3B,13,Los Padres de San Diego, 7/06/1992,30, 8/09/2012,98.88,1.91,R,R,https://www.mlb.com/es/player/592518
+571448,Nolan,Arenado,3B,28,Los Cardenales de San Luis, 4/16/1991,32, 4/28/2013,97.52,1.88,R,R,https://www.mlb.com/es/player/571448
+646240,Rafael,Devers,3B,11,Los Red Sox de Boston, 10/24/1996,26, 7/25/2017,108.86,1.83,L,R,https://www.mlb.com/es/player/646240
+663586,Austin,Riley,3B,27,Los Bravos de Atlanta, 4/02/1997,26, 5/15/2019,108.86,1.91,R,R,https://www.mlb.com/es/player/663586
+660271,Shohei,Ohtani,TWP,17,Los Angels de Los Angeles, 7/05/1994,28, 3/29/2018,95.25,1.93,L,R,https://www.mlb.com/es/player/660271
+605141,Mookie,Betts,RF,50,Los Dodgers de Los Angeles, 10/07/1992,30, 6/29/2014,81.65,1.75,R,R,https://www.mlb.com/es/player/605141
+624413,Pete,Alonso,1B,20,Los Mets de Nueva York, 12/07/1994,28, 3/28/2019,111.13,1.91,R,R,https://www.mlb.com/es/player/624413
+608070,Jose,Ramirez,3B,11,Los Guardians de Cleveland, 9/17/1992,30, 9/01/2013,86.18,1.75,S,R,https://www.mlb.com/es/player/608070
+677594,Julio,Rodriguez,CF,44,Los Mariners de Seattle, 12/29/2000,22, 4/08/2022,103.42,1.91,R,R,https://www.mlb.com/es/player/677594
+665742,Juan,Soto,LF,22,Los Padres de San Diego, 10/25/1998,24, 5/15/2018,101.6,1.88,L,L,https://www.mlb.com/es/player/665742
+663993,Nathaniel,Lowe,1B,30,Los Rangers de Texas, 7/07/1995,27, 4/29/2019,99.79,1.93,L,R,https://www.mlb.com/es/player/663993
+665926,Andres,Gimenez,2B,0,Los Guardians de Cleveland, 9/04/1998,24, 7/24/2020,73.03,1.55,L,R,https://www.mlb.com/es/player/665926
+643446,Jeff,McNeil,2B,1,Los Mets de Nueva York, 4/08/1992,31, 7/24/2018,88.45,1.85,L,R,https://www.mlb.com/es/player/643446
+593428,Xander,Bogaerts,SS,2,Los Padres de San Diego, 10/01/1992,30, 8/20/2013,98.88,1.88,R,R,https://www.mlb.com/es/player/593428
+621043,Carlos,Correa,SS,4,Los Twins de Minnesota, 9/22/1994,28, 6/08/2015,99.79,1.93,R,R,https://www.mlb.com/es/player/621043
+621493,Taylor,Ward,LF,3,Los Angels de Los Angeles, 12/14/1993,29, 8/14/2018,90.72,1.85,R,R,https://www.mlb.com/es/player/621493
+656941,Kyle,Schwarber,DH,12,Los Phillies de Filadelfia, 3/05/1993,30, 6/16/2015,103.87,1.83,L,R,https://www.mlb.com/es/player/656941
+547989,Jose,Abreu,1B,79,Los Astros de Houston, 1/29/1987,36, 3/31/2014,106.59,1.91,R,R,https://www.mlb.com/es/player/547989
+650490,Yandy,Diaz,1B,2,Los Rays de Tampa Bay, 8/08/1991,31, 4/03/2017,97.52,1.88,R,R,https://www.mlb.com/es/player/650490
+608324,Alex,Bregman,3B,2,Los Astros de Houston, 3/30/1994,29, 7/25/2016,87.09,1.83,R,R,https://www.mlb.com/es/player/608324
+592663,J.T.,Realmuto,C,10,Los Phillies de Filadelfia, 3/18/1991,32, 6/05/2014,96.16,1.85,R,R,https://www.mlb.com/es/player/592663
+665489,Vladimir,Guerrero,1B,27,Los Blue Jays de Toronto, 3/16/1999,24, 4/26/2019,111.13,1.88,R,R,https://www.mlb.com/es/player/665489
+519203,Anthony,Rizzo,1B,48,Los Yankees de Nueva York, 8/08/1989,33, 6/09/2011,108.86,1.91,L,L,https://www.mlb.com/es/player/519203
+516782,Starling,Marte,RF,6,Los Mets de Nueva York, 10/09/1988,34, 7/26/2012,88.45,1.85,R,R,https://www.mlb.com/es/player/516782
+543807,George,Springer,RF,4,Los Blue Jays de Toronto, 9/19/1989,33, 4/16/2014,99.79,1.91,R,R,https://www.mlb.com/es/player/543807
+592273,Brandon,Drury,2B,23,Los Angels de Los Angeles, 8/21/1992,30, 9/01/2015,104.33,1.88,R,R,https://www.mlb.com/es/player/592273
+607208,Trea,Turner,SS,7,Los Phillies de Filadelfia, 6/30/1993,29, 8/21/2015,83.91,1.88,R,R,https://www.mlb.com/es/player/607208
+669257,Will,Smith,C,16,Los Dodgers de Los Angeles, 3/28/1995,28, 5/28/2019,88.45,1.55,R,R,https://www.mlb.com/es/player/669257
+663656,Kyle,Tucker,RF,30,Los Astros de Houston, 1/17/1997,26, 7/07/2018,90.26,1.93,L,R,https://www.mlb.com/es/player/663656
+606192,Teoscar,Hernandez,RF,35,Los Mariners de Seattle, 10/15/1992,30, 8/12/2016,97.52,1.88,R,R,https://www.mlb.com/es/player/606192
+592669,Hunter,Renfroe,RF,12,Los Angels de Los Angeles, 1/28/1992,31, 9/21/2016,104.33,1.85,R,R,https://www.mlb.com/es/player/592669
+668804,Bryan,Reynolds,LF,10,Los Pirates de Pittsburgh, 1/27/1995,28, 4/20/2019,92.99,1.91,S,R,https://www.mlb.com/es/player/668804
+572233,Christian,Walker,1B,53,Los D-Backs de Arizona, 3/28/1991,32, 9/17/2014,94.35,1.83,R,R,https://www.mlb.com/es/player/572233
+666182,Bo,Bichette,SS,11,Los Blue Jays de Toronto, 3/05/1998,25, 7/29/2019,86.18,1.83,R,R,https://www.mlb.com/es/player/666182
+621566,Matt,Olson,1B,28,Los Bravos de Atlanta, 3/29/1994,29, 9/12/2016,102.06,1.96,L,R,https://www.mlb.com/es/player/621566
+607043,Brandon,Nimmo,CF,9,Los Mets de Nueva York, 3/27/1993,30, 6/26/2016,93.44,1.91,L,R,https://www.mlb.com/es/player/607043
+650333,Luis,Arraez,2B,3,Los Marlins de Miami, 4/09/1997,26, 5/18/2019,79.38,1.55,L,R,https://www.mlb.com/es/player/650333
+656555,Rhys,Hoskins,1B,17,Los Phillies de Filadelfia, 3/17/1993,30, 8/10/2017,111.13,1.93,R,R,https://www.mlb.com/es/player/656555
+553993,Eugenio,Suarez,3B,28,Los Mariners de Seattle, 7/18/1991,31, 6/04/2014,96.62,1.55,R,R,https://www.mlb.com/es/player/553993
+502110,J.D.,Martinez,DH,28,Los Dodgers de Los Angeles, 8/21/1987,35, 7/30/2011,104.33,1.91,R,R,https://www.mlb.com/es/player/502110
+596019,Francisco,Lindor,SS,12,Los Mets de Nueva York, 11/14/1993,29, 6/14/2015,86.18,1.55,S,R,https://www.mlb.com/es/player/596019
+457759,Justin,Turner,DH,2,Los Red Sox de Boston, 11/23/1984,38, 9/08/2009,91.63,1.55,R,R,https://www.mlb.com/es/player/457759
+672386,Alejandro,Kirk,C,30,Los Blue Jays de Toronto, 11/06/1998,24, 9/12/2020,111.13,1.73,R,R,https://www.mlb.com/es/player/672386
+605137,Josh,Bell,DH,55,Los Guardians de Cleveland, 8/14/1992,30, 7/08/2016,118.39,1.93,S,R,https://www.mlb.com/es/player/605137
+543068,C.J.,Cron,1B,25,Los Rockies de Colorado, 1/05/1990,33, 5/03/2014,106.59,1.93,R,R,https://www.mlb.com/es/player/543068
+664023,Ian,Happ,LF,8,Los Cubs de Chicago, 8/12/1994,28, 5/13/2017,92.99,1.83,S,R,https://www.mlb.com/es/player/664023
+621020,Dansby,Swanson,SS,7,Los Cubs de Chicago, 2/11/1994,29, 8/17/2016,86.18,1.85,R,R,https://www.mlb.com/es/player/621020
+664034,Ty,France,1B,23,Los Mariners de Seattle, 7/13/1994,28, 4/26/2019,97.52,1.55,R,R,https://www.mlb.com/es/player/664034
+680757,Steven,Kwan,LF,38,Los Guardians de Cleveland, 9/05/1997,25, 4/07/2022,77.11,1.75,L,L,https://www.mlb.com/es/player/680757
+623993,Anthony,Santander,RF,25,Los Orioles de Baltimore, 10/19/1994,28, 8/18/2017,104.33,1.88,S,R,https://www.mlb.com/es/player/623993
+668227,Randy,Arozarena,LF,56,Los Rays de Tampa Bay, 2/28/1995,28, 8/14/2019,83.91,1.55,R,R,https://www.mlb.com/es/player/668227
+643217,Andrew,Benintendi,LF,23,Los White Sox de Chicago, 7/06/1994,28, 8/02/2016,81.65,1.75,L,L,https://www.mlb.com/es/player/643217
+608369,Corey,Seager,SS,5,Los Rangers de Texas, 4/27/1994,29, 9/03/2015,97.52,1.93,L,R,https://www.mlb.com/es/player/608369
+592192,Mark,Canha,LF,19,Los Mets de Nueva York, 2/15/1989,34, 4/08/2015,94.8,1.88,R,R,https://www.mlb.com/es/player/592192
+642133,Rowdy,Tellez,1B,11,Los Brewers de Milwaukee, 3/16/1995,28, 9/05/2018,122.47,1.93,L,L,https://www.mlb.com/es/player/642133
+570482,Gio,Urshela,3B,10,Los Angels de Los Angeles, 10/11/1991,31, 6/09/2015,97.52,1.83,R,R,https://www.mlb.com/es/player/570482
+660670,Ronald,Acuna,RF,13,Los Bravos de Atlanta, 12/18/1997,25, 4/25/2018,92.99,1.83,R,R,https://www.mlb.com/es/player/660670
+650402,Gleyber,Torres,2B,25,Los Yankees de Nueva York, 12/13/1996,26, 4/22/2018,92.99,1.85,R,R,https://www.mlb.com/es/player/650402
+669221,Sean,Murphy,C,12,Los Bravos de Atlanta, 10/04/1994,28, 5/19/2019,103.42,1.91,R,R,https://www.mlb.com/es/player/669221
+656305,Matt,Chapman,3B,26,Los Blue Jays de Toronto, 4/28/1993,30, 6/15/2017,97.52,1.83,R,R,https://www.mlb.com/es/player/656305
+642715,Willy,Adames,SS,27,Los Brewers de Milwaukee, 9/02/1995,27, 5/22/2018,97.07,1.85,R,R,https://www.mlb.com/es/player/642715
+666969,Adolis,Garcia,RF,53,Los Rangers de Texas, 3/02/1993,30, 8/08/2018,92.99,1.85,R,R,https://www.mlb.com/es/player/666969
+683734,Andrew,Vaughn,1B,25,Los White Sox de Chicago, 4/03/1998,25, 4/02/2021,97.52,1.83,R,R,https://www.mlb.com/es/player/683734
+664913,Seth,Brown,LF,15,Los Athletics de Oakland, 7/13/1992,30, 8/26/2019,101.15,1.85,L,L,https://www.mlb.com/es/player/664913
+662139,Daulton,Varsho,LF,25,Los Blue Jays de Toronto, 7/02/1996,26, 7/30/2020,93.89,1.55,L,R,https://www.mlb.com/es/player/662139
+641857,Ryan,McMahon,2B,24,Los Rockies de Colorado, 12/14/1994,28, 8/12/2017,99.34,1.88,L,R,https://www.mlb.com/es/player/641857
+668942,Josh,Rojas,3B,10,Los D-Backs de Arizona, 6/30/1994,28, 8/12/2019,93.89,1.85,L,R,https://www.mlb.com/es/player/668942
+592885,Christian,Yelich,LF,22,Los Brewers de Milwaukee, 12/05/1991,31, 7/23/2013,93.89,1.91,L,R,https://www.mlb.com/es/player/592885
+663538,Nico,Hoerner,2B,2,Los Cubs de Chicago, 5/13/1997,26, 9/09/2019,90.72,1.85,R,R,https://www.mlb.com/es/player/663538
+518934,DJ,LeMahieu,3B,26,Los Yankees de Nueva York, 7/13/1988,34, 5/30/2011,99.79,1.93,R,R,https://www.mlb.com/es/player/518934
+453568,Charlie,Blackmon,DH,19,Los Rockies de Colorado, 7/01/1986,36, 6/07/2011,100.24,1.91,L,L,https://www.mlb.com/es/player/453568
+663898,Brendan,Rodgers,2B,7,Los Rockies de Colorado, 8/09/1996,26, 5/17/2019,92.53,1.83,R,R,https://www.mlb.com/es/player/663898
+543760,Marcus,Semien,2B,2,Los Rangers de Texas, 9/17/1990,32, 9/04/2013,88.45,1.83,R,R,https://www.mlb.com/es/player/543760
+657077,Alex,Verdugo,RF,99,Los Red Sox de Boston, 5/15/1996,27, 9/01/2017,87.09,1.83,L,L,https://www.mlb.com/es/player/657077
+606466,Ketel,Marte,2B,4,Los D-Backs de Arizona, 10/12/1993,29, 7/31/2015,95.25,1.85,S,R,https://www.mlb.com/es/player/606466
+663624,Ryan,Mountcastle,1B,6,Los Orioles de Baltimore, 2/18/1997,26, 8/21/2020,99.79,1.93,R,R,https://www.mlb.com/es/player/663624
+500871,Eduardo,Escobar,3B,10,Los Mets de Nueva York, 1/05/1989,34, 9/02/2011,87.54,1.55,S,R,https://www.mlb.com/es/player/500871
+669242,Tommy,Edman,SS,19,Los Cardenales de San Luis, 5/09/1995,28, 6/08/2019,81.65,1.55,S,R,https://www.mlb.com/es/player/669242
+545341,Randal,Grichuk,RF,15,Los Rockies de Colorado, 8/13/1991,31, 4/28/2014,97.98,1.88,R,R,https://www.mlb.com/es/player/545341
+621550,Patrick,Wisdom,3B,16,Los Cubs de Chicago, 8/27/1991,31, 8/12/2018,99.79,1.88,R,R,https://www.mlb.com/es/player/621550
+650859,Luis,Rengifo,2B,2,Los Angels de Los Angeles, 2/26/1997,26, 4/25/2019,88.45,1.55,S,R,https://www.mlb.com/es/player/650859
+630105,Jake,Cronenworth,1B,9,Los Padres de San Diego, 1/21/1994,29, 7/26/2020,84.82,1.83,L,R,https://www.mlb.com/es/player/630105
+642731,Thairo,Estrada,2B,39,Los Gigantes de San Francisco, 2/22/1996,27, 4/21/2019,83.91,1.55,R,R,https://www.mlb.com/es/player/642731
+595777,Jurickson,Profar,LF,29,Los Rockies de Colorado, 2/20/1993,30, 9/02/2012,83.46,1.83,S,R,https://www.mlb.com/es/player/595777
+677951,Bobby,Witt,SS,7,Los Reales de Kansas City, 6/14/2000,22, 4/07/2022,90.72,1.85,R,R,https://www.mlb.com/es/player/677951
+656775,Cedric,Mullins,CF,31,Los Orioles de Baltimore, 10/01/1994,28, 8/10/2018,79.38,1.75,L,L,https://www.mlb.com/es/player/656775
+669720,Austin,Hays,LF,21,Los Orioles de Baltimore, 7/05/1995,27, 9/07/2017,90.72,1.55,R,R,https://www.mlb.com/es/player/669720
+665161,Jeremy,Pena,SS,3,Los Astros de Houston, 9/22/1997,25, 4/07/2022,91.63,1.83,R,R,https://www.mlb.com/es/player/665161
+642708,Amed,Rosario,SS,1,Los Guardians de Cleveland, 11/20/1995,27, 8/01/2017,86.18,1.88,R,R,https://www.mlb.com/es/player/642708
+664761,Alec,Bohm,1B,28,Los Phillies de Filadelfia, 8/03/1996,26, 8/13/2020,98.88,1.96,R,R,https://www.mlb.com/es/player/664761
+571970,Max,Muncy,3B,13,Los Dodgers de Los Angeles, 8/25/1990,32, 4/25/2015,97.52,1.83,L,R,https://www.mlb.com/es/player/571970
+527038,Wilmer,Flores,1B,41,Los Gigantes de San Francisco, 8/06/1991,31, 8/06/2013,96.62,1.88,R,R,https://www.mlb.com/es/player/527038
+641820,Trey,Mancini,1B,36,Los Cubs de Chicago, 3/18/1992,31, 9/20/2016,104.33,1.91,R,R,https://www.mlb.com/es/player/641820
+572228,Luke,Voit,1B,45,Los Brewers de Milwaukee, 2/13/1991,32, 6/25/2017,117.03,1.88,R,R,https://www.mlb.com/es/player/572228
+673490,Ha-Seong,Kim,2B,7,Los Padres de San Diego, 10/17/1995,27, 4/01/2021,76.2,1.75,R,R,https://www.mlb.com/es/player/673490
+462101,Elvis,Andrus,SS,1,Major League Baseball, 8/26/1988,34, 4/06/2009,95.25,1.83,R,R,https://www.mlb.com/es/player/462101
+669004,MJ,Melendez,RF,1,Los Reales de Kansas City, 11/29/1998,24, 5/03/2022,86.18,1.85,L,R,https://www.mlb.com/es/player/669004
+657041,Lane,Thomas,RF,28,Los Nationals de Washington, 8/23/1995,27, 4/17/2019,89.81,1.83,R,R,https://www.mlb.com/es/player/657041
+571657,Kyle,Farmer,2B,12,Los Twins de Minnesota, 8/17/1990,32, 7/30/2017,92.99,1.83,R,R,https://www.mlb.com/es/player/571657
+457705,Andrew,McCutchen,DH,22,Los Pirates de Pittsburgh, 10/10/1986,36, 6/04/2009,88.45,1.55,R,R,https://www.mlb.com/es/player/457705
+573262,Mike,Yastrzemski,CF,5,Los Gigantes de San Francisco, 8/23/1990,32, 5/25/2019,80.74,1.55,L,L,https://www.mlb.com/es/player/573262
+592206,Nick,Castellanos,RF,8,Los Phillies de Filadelfia, 3/04/1992,31, 9/01/2013,92.08,1.93,R,R,https://www.mlb.com/es/player/592206
+467793,Carlos,Santana,1B,41,Los Pirates de Pittsburgh, 4/08/1986,37, 6/11/2010,97.52,1.55,S,R,https://www.mlb.com/es/player/467793
+608385,Jesse,Winker,DH,33,Los Brewers de Milwaukee, 8/17/1993,29, 4/14/2017,104.33,1.88,L,L,https://www.mlb.com/es/player/608385
+542303,Marcell,Ozuna,DH,20,Los Bravos de Atlanta, 11/12/1990,32, 4/30/2013,102.06,1.85,R,R,https://www.mlb.com/es/player/542303
+502054,Tommy,Pham,DH,28,Los Mets de Nueva York, 3/08/1988,35, 9/09/2014,101.15,1.85,R,R,https://www.mlb.com/es/player/502054
+518626,Josh,Donaldson,3B,28,Major League Baseball, 12/08/1985,37, 4/30/2010,95.25,1.85,R,R,https://www.mlb.com/es/player/518626
+572041,AJ,Pollock,DH,8,Los Mariners de Seattle, 12/05/1987,35, 4/18/2012,95.25,1.85,R,R,https://www.mlb.com/es/player/572041
+641487,J.P.,Crawford,SS,3,Los Mariners de Seattle, 1/11/1995,28, 9/05/2017,91.63,1.88,L,R,https://www.mlb.com/es/player/641487
+593160,Whit,Merrifield,LF,15,Los Blue Jays de Toronto, 1/24/1989,34, 5/18/2016,88.45,1.85,R,R,https://www.mlb.com/es/player/593160
+595879,Javier,Baez,SS,28,Los Tigers de Detroit, 12/01/1992,30, 8/05/2014,86.18,1.83,R,R,https://www.mlb.com/es/player/595879
+542583,Jesus,Aguilar,1B,99,Los Athletics de Oakland, 6/30/1990,32, 5/15/2014,125.65,1.91,R,R,https://www.mlb.com/es/player/542583
+663647,Ke'Bryan,Hayes,3B,13,Los Pirates de Pittsburgh, 1/28/1997,26, 9/01/2020,92.99,1.55,R,R,https://www.mlb.com/es/player/663647
+641355,Cody,Bellinger,CF,24,Los Cubs de Chicago, 7/13/1995,27, 4/25/2017,92.08,1.93,L,L,https://www.mlb.com/es/player/641355
+443558,Nelson,Cruz,DH,32,Los Padres de San Diego, 7/01/1980,42, 9/17/2005,104.33,1.88,R,R,https://www.mlb.com/es/player/443558
+493329,Yuli,Gurriel,1B,10,Los Marlins de Miami, 6/09/1984,38, 8/21/2016,97.52,1.83,R,R,https://www.mlb.com/es/player/493329
+622761,Jorge,Mateo,SS,3,Los Orioles de Baltimore, 6/23/1995,27, 8/13/2020,90.72,1.85,R,R,https://www.mlb.com/es/player/622761
+643393,Tony,Kemp,2B,5,Los Athletics de Oakland, 10/31/1991,31, 5/17/2016,72.57,1.68,L,R,https://www.mlb.com/es/player/643393
+643396,Isiah,Kiner-Falefa,CF,12,Los Yankees de Nueva York, 3/23/1995,28, 4/10/2018,86.18,1.55,R,R,https://www.mlb.com/es/player/643396
+514917,Cesar,Hernandez,2B,13,Major League Baseball, 5/23/1990,33, 5/29/2013,83.01,1.55,S,R,https://www.mlb.com/es/player/514917
+663757,Trent,Grisham,CF,1,Los Padres de San Diego, 11/01/1996,26, 8/01/2019,101.6,1.55,L,L,https://www.mlb.com/es/player/663757
+624428,Adam,Frazier,2B,12,Los Orioles de Baltimore, 12/14/1991,31, 6/24/2016,81.65,1.55,L,R,https://www.mlb.com/es/player/624428
+500743,Miguel,Rojas,SS,11,Los Dodgers de Los Angeles, 2/24/1989,34, 6/06/2014,85.28,1.83,R,R,https://www.mlb.com/es/player/500743
+664702,Myles,Straw,CF,7,Los Guardians de Cleveland, 10/17/1994,28, 9/15/2018,80.74,1.55,R,R,https://www.mlb.com/es/player/664702
+570731,Jonathan,Schoop,2B,7,Los Tigers de Detroit, 10/16/1991,31, 9/25/2013,112.04,1.85,R,R,https://www.mlb.com/es/player/570731
